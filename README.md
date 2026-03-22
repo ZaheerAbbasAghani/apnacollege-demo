@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first git repo <br>
-Author: Zaheer Abbas
+Author: Zaheer Abbas Aghani
